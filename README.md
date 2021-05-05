@@ -21,8 +21,14 @@ which shows the user nearby popular restaurants or places to visit.
 (HOW TO RUN IT LOGICALLY):
 
 ## CHALLENGES: 
+- In Connecting Database as a user
+- 
 
 ## ACCOMPLISHMENTS:
+- Created a Basic Workig app
+- Learned more on Real Time database
+- UI base design and more
+- 
 
 ## WHAT WE LEARNED:
 We need more practice before going to hacks, PEACE!! :)
