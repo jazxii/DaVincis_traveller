@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Wanderlust</string>
+    <string name="api_key">AIzaSyABTTXCNuhVNtFxtmaq8ZWVylanfAztxd8</string>
+    <string name="sign_up_now">Sign Up Now</string>
+    <string name="sign_in">Sign In</string>
+    <string name="you_have_successfully_signed_up">You have successfully signed up</string>
+    <string name="otp_auth">OTP auth</string>
+    <string name="email_auth">Email Auth</string>
+    <string name="get_otp">Get OTP</string>
+
+    <string name="verify_otp">Verify OTP</string>
+    <string name="enter_your_phone">Enter your phone</string>
+
+    <string name="otp_auth2">OTP Auth</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="choose_country">Choose Country</string>
+    <string name="enter_your_no_with_countrycode">Enter your no with countrycode</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify">Verify</string>
+    <string name="verify_your_otp_here">Verify Your OTP here</string>
+    <string name="signout">SignOut</string>
+    <string name="phone_sign_in">PHONE Sign-In</string>
+    <string name="login">LOGIN</string>
+    <string name="password">password</string>
+    <string name="email_adresss">email adresss</string>
+    <string name="or">OR</string>
+    <string name="ieee_logo">IEEE logo</string>
+    <string name="no_account_sign_up_now">No Account? Sign Up Now</string>
+    <string name="register">REGISTER</string>
+    <string name="register1">Register</string>
+    <string name="sign_in1">SIGN IN</string>
+    <string name="welcome">WELCOME</string>
+    <string name="siign_out">SIign Out</string>
+    <string name="signin_otp">SignIN - OTP</string>
+    <string name="enter_ph_number">Enter Ph Number</string>
+    <string name="verifying_otp">Verifying OTP</string>
+    <string name="enter_otp_here">Enter OTP here</string>
+    <string name="name">Name</string>
+    <string name="siii">sign_out</string>
+    <string name="plan">Plan</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="next">Next</string>
+</resources>
