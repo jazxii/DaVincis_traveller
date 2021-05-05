@@ -114,6 +114,6 @@
             android:textColor="#FFFFFF"
             android:translationX="33dp"
             android:translationY="20dp"
-            app:buttonTint="#323232" />
+            app:buttonTint="#BD05FF" />
     </androidx.cardview.widget.CardView>
 </androidx.constraintlayout.widget.ConstraintLayout>

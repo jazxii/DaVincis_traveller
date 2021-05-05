@@ -16,7 +16,7 @@
         android:layout_marginEnd="70dp"
         android:fontFamily="sans-serif-condensed-light"
         android:text="@string/welcome"
-        android:textColor="#FF1262"
+        android:textColor="#361E61"
         android:textSize="66sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

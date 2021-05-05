@@ -48,7 +48,7 @@
         android:fontFamily="sans-serif-condensed-light"
         android:text="@string/signin_otp"
         android:textAlignment="center"
-        android:textColor="#FF1032"
+        android:textColor="#422673"
         android:textSize="60sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
