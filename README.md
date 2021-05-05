@@ -22,7 +22,7 @@ which shows the user nearby popular restaurants or places to visit.
 
 ## CHALLENGES: 
 - In Connecting Database as a user
-- 
+- SignIn Auth Crashes
 
 ## ACCOMPLISHMENTS:
 - Created a Basic Workig app
