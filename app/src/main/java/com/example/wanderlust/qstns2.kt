@@ -15,7 +15,7 @@ class qstns2 : AppCompatActivity() {
 
         val nxt2 : Button = findViewById(R.id.nxt2)
         nxt2.setOnClickListener {
-            val intent= Intent(this, home::class.java)
+            val intent= Intent(this, checkliss::class.java)
             startActivity(intent)
         }
 

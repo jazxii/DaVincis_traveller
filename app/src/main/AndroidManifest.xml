@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.wanderlust">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Wanderlust">
-        <activity android:name=".checkliss"></activity>
+        <activity android:name=".Checkliss"></activity>
+        <activity android:name=".checkliss" />
         <activity android:name=".qstns2" />
         <activity android:name=".qstns" />
         <activity android:name=".phone" />
