@@ -80,6 +80,8 @@
         android:layout_marginTop="34dp"
         android:layout_marginEnd="134dp"
         android:text="@string/register1"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
         app:backgroundTint="#231539"
         app:cornerRadius="14dp"
         app:layout_constraintEnd_toEndOf="parent"

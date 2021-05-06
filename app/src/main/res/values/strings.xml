@@ -44,4 +44,8 @@
     <string name="next">Next</string>
     <string name="choose_your_options">Choose your Options</string>
     <string name="davinci_packer">Davinci Packer</string>
+    <string name="casual">Casual</string>
+    <string name="trip">Trip</string>
+    <string name="sports">Sports</string>
+    <string name="bussiness">Bussiness</string>
 </resources>
